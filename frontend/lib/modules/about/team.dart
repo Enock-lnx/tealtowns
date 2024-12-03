@@ -26,6 +26,8 @@ class _TeamState extends State<Team> {
     ImageData(imagePath: 'assets/images/team/luke-madera.jpg', name: 'Luke Madera', role: '',),
     ImageData(imagePath: 'assets/images/team/morgan-long.jpeg', name: 'Morgan Long', role: '',),
     ImageData(imagePath: 'assets/images/team/rebecca-odim.jpg', name: 'Rebecca Odim', role: '',),
+    ImageData(imagePath: 'assets/images/team/enock-kavai.jpg', name: 'Enock Kavai', role: '',),
+    
   ];
   double _imageSize = 200.0;
 
